@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Fascinate+Inline&display=swap');
+
+* {
+  scroll-behavior: smooth;
+}
+
+.wp-block-site-title a {
+  font-family: Fascinate Inline;
+}
+
+.wp-block-buttons:not(.is-content-justification-space-between {
+  margin: 20px;
+}
+
+#saiba a{
+	background: #234;
+}

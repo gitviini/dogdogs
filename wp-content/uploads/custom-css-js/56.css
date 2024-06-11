@@ -1,0 +1,39 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+@import url('https://fonts.googleapis.com/css2?family=Fascinate+Inline&display=swap');
+
+*{
+	box-sizing: border-box;
+	scroll-behavior: smooth;
+	transition: 0.2s;
+}
+
+.wp-block-site-title a {
+  font-family: Fascinate Inline;
+}
+
+h3:hover{
+	opacity: 0.5; 
+}
+
+.button a{
+	box-shadow: 0 8px 0 #3454;
+	margin: 0px 0 8px;
+}
+
+.button a:hover{
+	margin: 3px 0 5px;
+	box-shadow: 0 5px 0 #3454;
+}
+
+.button a:active{
+	margin: 8px 0 0px;
+	box-shadow: 0 0 0 #3454;
+}
+
+.wp-block-post-title, .wp-block-post-title a{
+	font-family: Fascinate Inline;
+}
+
+</style>
+<!-- end Simple Custom CSS and JS -->
